@@ -1,6 +1,6 @@
 # Coffee Sales Analysis Dashboard ☕📊
 
-![Dashboard Preview](./Dashboard .png)
+![Dashboard Preview](./Dashboard.png)
 
 ## 📌 Project Overview  
 This project presents an **interactive Coffee Sales Analysis Dashboard** created in **Microsoft Excel**.  
