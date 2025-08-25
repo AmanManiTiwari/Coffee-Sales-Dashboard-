@@ -24,7 +24,7 @@ The purpose of this project is to **analyze sales data effectively** and present
 
 ## 📂 Project Files  
 - `dashboard.png` → Preview of the final Excel Dashboard  
-- `Coffee Sales Dashboard.xlsx` (if added) → Interactive Excel file containing the dashboard and raw data  
+- `coffeeOrdersProject.xlsx` → Interactive Excel file containing the dashboard and raw data  
 
 ---
 
